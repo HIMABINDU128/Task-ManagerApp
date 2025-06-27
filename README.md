@@ -69,17 +69,22 @@ Email: binduvng28@gmail.com | LinkedIn: https://www.linkedin.com/in/himabindu-v-
 
 This project is open-source and built for learning, showcasing full-stack development skills, and further enhancements.
 
->Live URLs
+# Task Manager App
 
-- **Frontend (React)**: [https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
-- **Backend API (Render)**: [https://task-manager-backend-rm39.onrender.com](https://task-manager-backend-rm39.onrender.com)
+This is a full-stack Task Manager...
 
-How to Use (Live)
+# Live URLs
+
+- **Frontend**: https://task-manager-frontend-xxxxx.vercel.app
+- **Backend API**: https://task-manager-backend-rm39.onrender.com
+
+
 
 1. Register a new user
 2. Log in
 3. Add, complete, or delete tasks
 4. Log out and refresh to test persistent login
+
 
 
 
