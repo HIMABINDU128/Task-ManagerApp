@@ -74,6 +74,13 @@ This project is open-source and built for learning, showcasing full-stack develo
 - **Frontend (React)**: [https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
 - **Backend API (Render)**: [https://task-manager-backend-rm39.onrender.com](https://task-manager-backend-rm39.onrender.com)
 
+How to Use (Live)
+
+1. Register a new user
+2. Log in
+3. Add, complete, or delete tasks
+4. Log out and refresh to test persistent login
+
 
 
 
