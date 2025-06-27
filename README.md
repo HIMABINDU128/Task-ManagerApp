@@ -1,4 +1,4 @@
-# Task Manager App
+> Task Manager App
 
 This is a full-stack Task Manager application where users can register, log in, and manage their daily tasks. It is built using **React** for the frontend, **Node.js + Express** for the backend, and **MongoDB Atlas** for the database. Users can create, update, delete, and mark tasks as completed.
 
@@ -8,21 +8,21 @@ The project uses a **RESTful API** architecture with separate routes for authent
 
 ---
 
-# How to Run Locally
+> How to Run Locally
 
-# Backend
+Backend
 ```bash
 cd backend
 npm install
 npm start
 
-# Frontend
+Frontend
 cd frontend
 npm install
 npm start
 MongoDB connection is configured in a .env file using your own MONGO_URI and JWT_SECRET.
 
-Project Structure:
+>Project Structure:
 
 Task-ManagerApp/
 ├── backend/
@@ -40,7 +40,7 @@ Task-ManagerApp/
 │   └── public/
 └── README.md
 
-Key API Routes
+>Key API Routes
 
 POST /api/auth/register → User registration
 POST /api/auth/login → User login
@@ -49,13 +49,13 @@ POST /api/tasks → Add new task
 PATCH /api/tasks/:id → Update task (mark complete)
 DELETE /api/tasks/:id → Delete task
 
-Testing
+>Testing
 
 Basic frontend testing is done using React Testing Library.
 To run the tests:
 npm test
 
-Future Enhancements
+>Future Enhancements
 
 Add due dates and priority to tasks
 Task filters (e.g., Completed, Pending)
@@ -68,6 +68,12 @@ Himabindu V R
 Email: binduvng28@gmail.com | LinkedIn: https://www.linkedin.com/in/himabindu-v-r-b34033222/
 
 This project is open-source and built for learning, showcasing full-stack development skills, and further enhancements.
+
+>Live URLs
+
+- **Frontend (React)**: [https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
+- **Backend API (Render)**: [https://task-manager-backend-rm39.onrender.com](https://task-manager-backend-rm39.onrender.com)
+
 
 
 
