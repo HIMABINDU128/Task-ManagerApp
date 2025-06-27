@@ -65,10 +65,11 @@ Copy
 Edit
 npm test
 
-Live links
 
-- **Frontend**: [https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
-- **Backend API**: [https://task-manager-backend-rm39.onrender.com](https://task-manager-backend-rm39.onrender.com)
+# Live URLs
+
+- **Frontend**: [Live Site](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
+- **Backend API**: [Live API](https://task-manager-backend-rm39.onrender.com)
 
 
 ✅ App Features to Try
