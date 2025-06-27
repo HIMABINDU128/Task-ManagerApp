@@ -75,8 +75,9 @@ This is a full-stack Task Manager...
 
 # Live URLs
 
-- **Frontend**: https://task-manager-frontend-xxxxx.vercel.app
-- **Backend API**: https://task-manager-backend-rm39.onrender.com
+- **Frontend**: [https://task-manager-frontend-XYZ.vercel.app](https://task-manager-frontend-XYZ.vercel.app)
+- **Backend API**: [https://task-manager-backend-XYZ.onrender.com](https://task-manager-backend-XYZ.onrender.com)
+
 
 
 
