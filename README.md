@@ -65,13 +65,6 @@ Copy
 Edit
 npm test
 
-
-# Live URLs
-
-- **Frontend**: [Live Site](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
-- **Backend API**: [Live API](https://task-manager-backend-rm39.onrender.com)
-
-
 ✅ App Features to Try
 Register a new user
 
@@ -103,16 +96,11 @@ Email: binduvng28@gmail.com | LinkedIn: https://www.linkedin.com/in/himabindu-v-
 
 This project is open-source and built for learning, showcasing full-stack development skills, and further enhancements.
 
-# Task Manager App
 
-This is a full-stack Task Manager...
+# Live URLs
 
-## Live URLs
-
-- **Frontend**: [https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
-- **Backend API**: [https://task-manager-backend-rm39.onrender.com](https://task-manager-backend-rm39.onrender.com)
-
-
+- **Frontend**: [Live Site](https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app)
+- **Backend API**: [Live API](https://task-manager-backend-rm39.onrender.com)
 
 
 1. Register a new user
