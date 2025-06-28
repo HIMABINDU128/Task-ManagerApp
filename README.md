@@ -60,10 +60,10 @@ bash
 Copy
 Edit
 npm test
-🌐 Live URLs
-Frontend (live site): https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app
+## Live URLs
 
-Backend API: https://task-manager-backend-rm39.onrender.com
+- **Frontend (Live Site)**: [Live Site](https://task-manager-frontend-git-main-himabindu-v-rs-projects.vercel.app)
+- **Backend API**: [Live API](https://task-manager-backend-rm39.onrender.com)
 
 ✅ App Features to Try
 Register a new user
