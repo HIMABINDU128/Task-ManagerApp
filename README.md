@@ -61,9 +61,9 @@ Copy
 Edit
 npm test
 🌐 Live URLs
-Frontend: Live Site
+Frontend (live site): https://task-manager-frontend-g6wi7dlvq-himabindu-v-rs-projects.vercel.app
 
-Backend API: Live API
+Backend API: https://task-manager-backend-rm39.onrender.com
 
 ✅ App Features to Try
 Register a new user
